@@ -6,33 +6,31 @@
 - Profile on github: https://github.com/modmuss50
 
 Mods used:
-- Fabric.*
-- Fabric API
-- Fabric Language Kotlin
-- Fabric Language Scala
-- Reborn Core
-- Tech Reborn
+- [Fabric.*](https://fabricmc.net/)
+- [Fabric API](https://fabricmc.net/)
+- [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
+- [Fabric Language Scala](https://www.curseforge.com/minecraft/mc-mods/fabric-language-scala)
+- [Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore)
+- [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 
 ***
 
 # Creator: Shedaniel
 - Profile: https://www.curseforge.com/members/shedaniel
 - Profile on github: https://github.com/shedaniel
+- https://shedaniel.gitbook.io/
 
 Mods used:
-- 'Slight' Gui Modifications
-- Advancements Enlarger
-- Architectury API
-- Auto Config Updated API
-- Cloth API
-- Cloth Config API
-- Dimension Fix
-- cAn i MiNe thIS bLOCk?
-- Roughly Enough Items
-- Light Overlay
-- KubeJS
-- Iron Jetpacks
-- Improved Stations
+- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
+- [Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
+- [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+- [Dimension Fix](https://www.curseforge.com/minecraft/mc-mods/dimension-fix-some-forge-patches-ported)
+- [cAn i MiNe thIS bLOCk?](https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block)
+- ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+- [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks-fabric)
+- [Improved Stations](https://www.curseforge.com/minecraft/mc-mods/improved-stations)
 
 ***
 
@@ -41,14 +39,16 @@ Mods used:
 - Profile on github: https://github.com/haykam821
 
 Mods used:
-- Fabric Api
-- Fabric Launcher
-- Colorful Columns
-- Columns
-- Debrand
-- Smoother Bedrock
-- Golden Hoppers
-- Wooden Hoppers
+- [Fabric Api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+- [Fabric Launcher](https://fabricmc.net/)
+- [Colorful Columns](https://www.curseforge.com/minecraft/mc-mods/colorful-columns)
+- [Columns](https://www.curseforge.com/minecraft/mc-mods/columns)
+- [Debrand](https://www.curseforge.com/minecraft/mc-mods/debrand)
+- [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
+- [Smoother Bedrock](https://www.curseforge.com/minecraft/mc-mods/smoother-bedrock)
+- [Golden Hoppers](https://www.curseforge.com/minecraft/mc-mods/golden-hoppers)
+- [Wooden Hoppers](https://www.curseforge.com/minecraft/mc-mods/wooden-hoppers)
+- [Break Progress](https://www.curseforge.com/minecraft/mc-mods/break-progress)
 
 ***
 
@@ -57,12 +57,14 @@ Mods used:
 - Profile on github: https://github.com/Flytre
 
 Mods used:
-- Attribute Fix
-- Dual Riders
-- Flytre Lib
-- Ranger's Haven
-- Grass Bypass
-- No Angled Brackets
+- [Attribute Fix](https://www.curseforge.com/minecraft/mc-mods/attribute)
+- [Dual Riders](https://www.curseforge.com/minecraft/mc-mods/dual-riders)
+- [Ranger's Haven](https://www.curseforge.com/minecraft/mc-mods/rangers-haven)
+- [Grass Bypass](https://www.curseforge.com/minecraft/mc-mods/grass-pass)
+- [No Angled Brackets](https://www.curseforge.com/minecraft/mc-mods/no-angled-brackets)
+
+Library:
+- [Flytre Lib](https://www.curseforge.com/minecraft/mc-mods/lib)
 
 ***
 
@@ -71,11 +73,11 @@ Mods used:
 - Profile on github: https://github.com/yungnickyoung
 
 Mods used:
-- YUNG's API
-- YUNG's Better Caves
-- YUNG's Better Dungeons
-- YUNG's Better Mineshafts
-- YUNG's Better Strongholds
+- [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric)
+- [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves-fabric)
+- [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
+- [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
+- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
 
 ***
 
@@ -84,8 +86,8 @@ Mods used:
 - Profile on github: https://github.com/Technici4n
 
 Mods used:
-- Advancements Debug
-- Modern Industrialization
+- [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)
+- [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)
 
 ***
 
@@ -94,29 +96,19 @@ Mods used:
 - Profile on github: https://github.com/Draylar
 
 Mods used:
-- Fabric Furnaces
-- Draylar's Battle Towers
-- Go Fish
-- Get Off My Lawn
-- Game Start
-- Gate of Babylon
-- Stonecutter Tweaks
-- Wolves With Armor
-- Vanilla Excavators
-- Vanilla Hammers
-- Staff of Building
-- Reroll
-- Inmis
-
-***
-
-# Creator: NinjaPhoenix
-- Profile: https://www.curseforge.com/members/NinjaPhenix
-- Profile on github: https://github.com/NinjaPhenix
-
-Mods used:
-- Expanded Storage
-- Fat Experience Orbs
+- [Fabric Furnaces](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces)
+- [Draylar's Battle Towers](https://www.curseforge.com/minecraft/mc-mods/draylars-battle-towers)
+- [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish)
+- [Get Off My Lawn](https://www.curseforge.com/minecraft/mc-mods/get-off-my-lawn)
+- [Game Start](https://www.curseforge.com/minecraft/mc-mods/game-start)
+- [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)
+- [Stonecutter Tweaks](https://www.curseforge.com/minecraft/mc-mods/stonecutter-tweaks)
+- [Wolves With Armor](https://www.curseforge.com/minecraft/mc-mods/wolves-with-armor)
+- [Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators)
+- [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers)
+- [Staff of Building](https://www.curseforge.com/minecraft/mc-mods/staff-of-building)
+- [Reroll](https://www.curseforge.com/minecraft/mc-mods/reroll)
+- [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)
 
 ***
 
@@ -125,8 +117,8 @@ Mods used:
 - Website: https://chocolateminecraft.com/
 
 Mods used:
-- Xaero's Minimap
-- Xaero's World Map
+- [Xaero's Minimap](https://chocolateminecraft.com/minimap2.php)
+- [Xaero's World Map](https://chocolateminecraft.com/worldmap.php#popup1)
 
 ***
 
@@ -135,12 +127,13 @@ Mods used:
 - Profile on github: https://github.com/LatvianModder
 
 Mods used:
-- FTB Library
-- FTB Quests
-- FTB Teams
-- Item Filters
-- Rhino
-- Kubejs
+- [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric)
+- [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric)
+- [FTB Ranks](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-fabric)
+- [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric)
+- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters-fabric)
+- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino)
+- [Kubejs](https://www.curseforge.com/minecraft/mc-mods/kubejs-fabric)
 
 ***
 
@@ -149,7 +142,7 @@ Mods used:
 - Profile on github: https://github.com/EltrutLikes
 
 Mods used:
-- Addendum
+- [Addendum](https://www.curseforge.com/minecraft/mc-mods/addendum-fabric)
 
 ***
 
@@ -158,9 +151,9 @@ Mods used:
 - Profile on github: https://github.com/jellysquid3
 
 Mods used:
-- Sodium
-- Lithium
-- Phosphor
+- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
+- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
+- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
 
 ***
 
@@ -169,8 +162,9 @@ Mods used:
 - Profile on github: https://github.com/GabrielOlvH
 
 Mods used:
-- Wireless Networks(GabrielHOlv)
-- Mo' Colors(GabrielHOlv)
+- [Wireless Networks](https://www.curseforge.com/minecraft/mc-mods/wireless-networks)
+- [Mo' Colors](https://www.curseforge.com/minecraft/mc-mods/mo-colors)
+- [Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)
 
 ***
 
@@ -179,9 +173,9 @@ Mods used:
 - Profile on github: https://github.com/badasintended
 
 Mods used:
-- WTHIT
-- megane
-- slotlink
+- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)
+- [megane](https://www.curseforge.com/minecraft/mc-mods/megane)
+- [slotlink](https://www.curseforge.com/minecraft/mc-mods/slotlink)
 
 ***
 
@@ -190,10 +184,11 @@ Mods used:
 - Profile on github: https://github.com/kyrptonaught
 
 Mods used:
-- ToolTipFix
-- Inventory Sorting
-- Quick Shulker
-- Upgraded Ender Chests
+- [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
+- [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
+- [Quick Shulker](https://www.curseforge.com/minecraft/mc-mods/quick-shulker)
+- [Upgraded Ender Chests](https://www.curseforge.com/minecraft/mc-mods/upgraded-ender-chests)
+- [Diggus Maximus](https://www.curseforge.com/minecraft/mc-mods/diggus-maximus)
 
 ***
 
@@ -202,9 +197,9 @@ Mods used:
 - Profile on github: https://github.com/Juuxel
 
 Mods used:
-- Adorn
-- Woods and Mires
-- Lakeside
+- [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn)
+- [Woods and Mires](https://www.curseforge.com/minecraft/mc-mods/woods-and-mires)
+- [Lakeside](https://www.curseforge.com/minecraft/mc-mods/lakeside)
 
 ***
 
@@ -213,8 +208,8 @@ Mods used:
 - Profile on github: https://github.com/vini2003
 
 Mods used:
-- Astromine
-- Bamboo Tweaks
+- [Astromine](https://www.curseforge.com/minecraft/mc-mods/astromine-arch)
+- [Bamboo Tweaks](https://www.curseforge.com/minecraft/mc-mods/bamboo-tweaks)
 
 ***
 
@@ -223,11 +218,12 @@ Mods used:
 - Profile on github: https://github.com/lucaargolo
 
 Mods used:
-- Lifts
-- Terrarian Slimes
-- SlotLock
-- Extra Generators
-- Kibe Utilities
+- [Lifts](https://www.curseforge.com/minecraft/mc-mods/lifts)
+- [Terrarian Slimes](https://www.curseforge.com/minecraft/mc-mods/terrarian-slimes)
+- [SlotLock](https://www.curseforge.com/minecraft/mc-mods/slotlock)
+- [Extra Generators](https://www.curseforge.com/minecraft/mc-mods/extra-generators)
+- [Kibe Utilities](https://www.curseforge.com/minecraft/mc-mods/kibe)
+- [Entity Banners](https://www.curseforge.com/minecraft/mc-mods/entity-banners)
 
 ***
 
@@ -237,11 +233,13 @@ Mods used:
 
 Mods used:
 - VersionChanger
-- Mo' Structures
-- TacoCraft
-- Golems Galore
-- Dark Enchanting
-- LibJF
+- [Mo' Structures](https://www.curseforge.com/minecraft/mc-mods/mo-structures)
+- [TacoCraft](https://www.curseforge.com/minecraft/mc-mods/tacocraft-fabric)
+- [Golems Galore](https://www.curseforge.com/minecraft/mc-mods/golems-galore)
+- [Dark Enchanting](https://www.curseforge.com/minecraft/mc-mods/dark-enchanting)
+
+Library:
+[LibJF](https://www.curseforge.com/minecraft/mc-mods/libjf)
 
 ***
 
@@ -250,8 +248,8 @@ Mods used:
 - Profile on github: https://github.com/grondag
 
 Mods used:
-- Fermion
-- JMX
+- [Fermion](https://www.curseforge.com/minecraft/mc-mods/fermion)
+- [JMX](https://www.curseforge.com/minecraft/mc-mods/jmx)
 
 ***
 
@@ -260,8 +258,8 @@ Mods used:
 - Profile on github: https://github.com/SuperCoder7979
 
 Mods used:
-- Ecotones
-- River Redux
+- [Ecotones](https://www.curseforge.com/minecraft/mc-mods/ecotones)
+- [River Redux](https://www.curseforge.com/minecraft/mc-mods/river-redux)
 
 ***
 
@@ -270,9 +268,12 @@ Mods used:
 - Profile on gitlab: https://gitlab.com/scs_torleon
 
 Mods used:
-- Awesome Dungeon
-- Awesome Dungeon Edition Ocean
-- Library Ferret
+- [Awesome Dungeon](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-fabric)
+- [Awesome Dungeon Nether Edition](https://www.curseforge.com/minecraft/texture-packs/awesome-dungeon-nether-edition-datapack)
+- [Awesome Dungeon Edition Ocean](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric)
+- [Awesome Dungeon End Edition](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-fabric)
+Library:
+- [Library Ferret](https://www.curseforge.com/minecraft/mc-mods/library-ferret-fabric)
 
 ***
 
@@ -281,8 +282,8 @@ Mods used:
 - Profile on github: https://github.com/MoriyaShiine
 
 Mods used:
-- On Soul Fire
-- Respawnable Pets
+- [On Soul Fire](https://www.curseforge.com/minecraft/mc-mods/on-soul-fire)
+- [Respawnable Pets](https://www.curseforge.com/minecraft/mc-mods/respawnable-pets)
 
 ***
 
@@ -291,8 +292,10 @@ Mods used:
 - Profile on github: https://github.com/comp500
 
 Mods used:
-- Indium 
-- (Packwiz)
+- [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)
+
+Tools:
+- [Packwiz](https://github.com/packwiz/packwiz)
 
 ***
 
@@ -301,7 +304,7 @@ Mods used:
 - Profile on github: https://github.com/squeek502
 
 Mods used:
-- AppleSkin
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 
 ***
 
@@ -310,7 +313,7 @@ Mods used:
 - Profile on github: https://github.com/Platymemo
 
 Mods used:
-- Alaska Native Craft
+- [Alaska Native Craft](https://www.curseforge.com/minecraft/mc-mods/alaska-native-craft)
 
 ***
 
@@ -319,7 +322,7 @@ Mods used:
 - Profile on github: https://github.com/legobmw99
 
 Mods used:
-- Better Than Mending
+- [Better Than Mending](https://www.curseforge.com/minecraft/mc-mods/better-than-mending)
 
 ***
 
@@ -328,7 +331,7 @@ Mods used:
 - Project on github: https://github.com/AppliedEnergistics
 
 Mods used:
-- Applied Energistics 2
+- [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 
 ***
 
@@ -336,7 +339,7 @@ Mods used:
 - Profile on github: https://github.com/Slomaxonical-907
 
 Mods used:
-- Architect's Palette
+- [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)
 
 ***
 
@@ -345,7 +348,7 @@ Mods used:
 - Profile on github: https://github.com/NathanPB
 
 Mods used:
-- Deep Mob Learning: Refabricated
+- [Deep Mob Learning: Refabricated](https://www.curseforge.com/minecraft/mc-mods/deep-mob-learning-refabricated)
 
 ***
 
@@ -354,5 +357,14 @@ Mods used:
 - Profile on github: https://github.com/florensie
 
 Mods used:
-- Egg Tab
-- Artifacts
+- [Egg Tab](https://www.curseforge.com/minecraft/mc-mods/eggtab-fabric)
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric)
+
+***
+
+# Creator: AdrianTodt
+- Profile: https://www.curseforge.com/members/adriantodt
+- Profile on github: https://github.com/adriantodt
+
+Mods used:
+- [Winged](https://www.curseforge.com/minecraft/mc-mods/winged)
