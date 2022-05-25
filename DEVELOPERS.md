@@ -1,13 +1,15 @@
-## MODS DEVELOPERS
+## Mods creators
 
 
-# Creator: Modmuss50
+# Developer: ![Modmuss50](https://user-images.githubusercontent.com/97899734/170364137-0513fdf8-a920-4a01-b48d-515333af7247.png)
+
+
 - Profile: https://www.curseforge.com/members/modmuss50
 - Profile on github: https://github.com/modmuss50
 
 Mods used:
 - [Fabric.*](https://fabricmc.net/)
-- [Fabric API](https://fabricmc.net/)
+- [Fabric Api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 - [Fabric Language Scala](https://www.curseforge.com/minecraft/mc-mods/fabric-language-scala)
 - [Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore)
@@ -15,7 +17,8 @@ Mods used:
 
 ***
 
-# Creator: Shedaniel
+# Developer: ![Shedaniel](https://user-images.githubusercontent.com/97899734/170364182-bad95045-1baa-4752-9d26-a3e5f905074e.png)
+
 - Profile: https://www.curseforge.com/members/shedaniel
 - Profile on github: https://github.com/shedaniel
 - https://shedaniel.gitbook.io/
@@ -34,7 +37,9 @@ Mods used:
 
 ***
 
-# Creator: Haykam
+# Developer: ![Haykam](https://user-images.githubusercontent.com/97899734/170364303-56fcf4c5-97ad-4f79-89f2-90e77d8997f7.png)
+
+
 - Profile: https://www.curseforge.com/members/haykam
 - Profile on github: https://github.com/haykam821
 
@@ -52,7 +57,9 @@ Mods used:
 
 ***
 
-# Creator: Flytre7
+# Developer: ![Flytre7](https://user-images.githubusercontent.com/97899734/170364331-d380415f-7699-45a9-a7b0-1ef9f58b3389.png)
+
+
 - Profile: https://www.curseforge.com/members/flytre7
 - Profile on github: https://github.com/Flytre
 
@@ -68,7 +75,9 @@ Library:
 
 ***
 
-# Creator: YUNGNICKYOUNG
+# Developer: ![YUNGNICKYOUNG](https://user-images.githubusercontent.com/97899734/170364354-82bfbc16-71d3-41e5-9e03-3e6bf09e1635.png)
+
+
 - Profile: https://www.curseforge.com/members/yungnickyoung
 - Profile on github: https://github.com/yungnickyoung
 
@@ -81,7 +90,9 @@ Mods used:
 
 ***
 
-# Creator: The Technici4n
+# Developer: ![The Technici4n](https://user-images.githubusercontent.com/97899734/170364379-7d12d62a-7829-4116-82c1-135ce87ff003.png)
+
+
 - Profile: https://www.curseforge.com/members/thetechnici4n
 - Profile on github: https://github.com/Technici4n
 
@@ -91,7 +102,9 @@ Mods used:
 
 ***
 
-# Creator: Draylar
+# Developer: ![Draylar](https://user-images.githubusercontent.com/97899734/170364424-ddb5c48a-1643-4bbd-8b7d-21474dde4003.png)
+
+
 - Profile: https://www.curseforge.com/members/draylar1
 - Profile on github: https://github.com/Draylar
 
@@ -112,7 +125,21 @@ Mods used:
 
 ***
 
-# Creator: Xaero96
+# Developer: ![NinjaPhoenix](https://user-images.githubusercontent.com/97899734/170364454-9f61d927-3eda-4bf0-92ec-6d0ae075fd72.png)
+
+
+- Profile: https://www.curseforge.com/members/NinjaPhenix
+- Profile on github: https://github.com/NinjaPhenix
+
+Mods used:
+- [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage)
+- [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs)
+
+***
+
+# Developer: ![Xaero96](https://user-images.githubusercontent.com/97899734/170364536-7fc9b7d6-71ba-4e84-83d8-abad6e610e29.png)
+
+
 - Profile: https://www.curseforge.com/members/xaero96
 - Website: https://chocolateminecraft.com/
 
@@ -122,7 +149,9 @@ Mods used:
 
 ***
 
-# Creator: Latvian Modder
+# Developer: ![Latvian Modder](https://user-images.githubusercontent.com/97899734/170364558-8e2c83e2-cffe-49d6-b27d-f1e0675d4775.png)
+
+
 - Profile: https://www.curseforge.com/members/latvianmodder
 - Profile on github: https://github.com/LatvianModder
 
@@ -137,7 +166,8 @@ Mods used:
 
 ***
 
-# Creator: Eltrutlikes
+# Developer: ![Eltrutlikes](https://user-images.githubusercontent.com/97899734/170364579-0b9365ea-3071-46ee-8eb0-e4aba82a11f3.png)
+
 - Profile: https://www.curseforge.com/members/eltrutlikes
 - Profile on github: https://github.com/EltrutLikes
 
@@ -146,7 +176,9 @@ Mods used:
 
 ***
 
-# Creator: jellysquid3_
+# Developer: ![jellysquid3_](https://user-images.githubusercontent.com/97899734/170364599-fe9bbdc1-d1dd-4cde-a0ac-2ecd052be24b.png)
+
+
 - Profile: https://www.curseforge.com/members/jellysquid3_
 - Profile on github: https://github.com/jellysquid3
 
@@ -157,7 +189,9 @@ Mods used:
 
 ***
 
-# Creator: GabrielHOlv
+# Developer: ![GabrielHOlv](https://user-images.githubusercontent.com/97899734/170364626-017f8e4e-95d5-4807-b740-150970fbb8a2.png)
+
+
 - Profile: https://www.curseforge.com/members/gabrielholv
 - Profile on github: https://github.com/GabrielOlvH
 
@@ -168,7 +202,9 @@ Mods used:
 
 ***
 
-# Creator: Deirn
+# Developer: ![Deirn](https://user-images.githubusercontent.com/97899734/170364654-c0101ca7-64c6-4fb6-9cef-5a3ff8408418.png)
+
+
 - Profile: https://www.curseforge.com/members/badasintended
 - Profile on github: https://github.com/badasintended
 
@@ -179,7 +215,9 @@ Mods used:
 
 ***
 
-# Creator: Kyrptonaught
+# Developer: ![Kyrptonaught](https://user-images.githubusercontent.com/97899734/170364670-40f32563-d1bb-420a-82fd-9c6c3c122907.png)
+
+
 - Profile: https://www.curseforge.com/members/kyrptonaught
 - Profile on github: https://github.com/kyrptonaught
 
@@ -192,7 +230,9 @@ Mods used:
 
 ***
 
-# Creator: Juicebus
+# Developer: ![Juicebus](https://user-images.githubusercontent.com/97899734/170364689-6b837103-20c0-42cb-b16e-63db0fd0198c.png)
+
+
 - Profile: https://www.curseforge.com/members/juicebus
 - Profile on github: https://github.com/Juuxel
 
@@ -203,7 +243,9 @@ Mods used:
 
 ***
 
-# Creator: Vini2003_dev
+# Developer: ![Vini2003_dev](https://user-images.githubusercontent.com/97899734/170364712-a67ae721-e43b-4b98-81d9-3a9246f0ebd6.png)
+
+
 - Profile: https://www.curseforge.com/members/vini2003_dev
 - Profile on github: https://github.com/vini2003
 
@@ -213,7 +255,9 @@ Mods used:
 
 ***
 
-# Creator: D4rkness_King
+# Developer: ![D4rkness_King](https://user-images.githubusercontent.com/97899734/170364760-adb72b65-539d-4cca-8acc-f6af8c8cc1b9.png)
+
+
 - Profile: https://www.curseforge.com/members/d4rkness_king
 - Profile on github: https://github.com/lucaargolo
 
@@ -227,7 +271,9 @@ Mods used:
 
 ***
 
-# Creator: Ffrannny
+# Developer: ![Ffrannny](https://user-images.githubusercontent.com/97899734/170364778-2227056c-6e90-45b9-ab8f-617095932363.png)
+
+
 - Profile: https://www.curseforge.com/members/ffrannny
 - Profile on github: https://github.com/frqnny
 
@@ -239,11 +285,13 @@ Mods used:
 - [Dark Enchanting](https://www.curseforge.com/minecraft/mc-mods/dark-enchanting)
 
 Library:
-[LibJF](https://www.curseforge.com/minecraft/mc-mods/libjf)
+- [LibJF](https://www.curseforge.com/minecraft/mc-mods/libjf)
 
 ***
 
-# Creator: GrondagTheBarbarian
+# Developer: ![GrondagTheBarbarian](https://user-images.githubusercontent.com/97899734/170364800-5b0c5d37-7724-4095-b688-8a047bd98191.png)
+
+
 - Profile: https://www.curseforge.com/members/grondagthebarbarian/projects
 - Profile on github: https://github.com/grondag
 
@@ -253,7 +301,9 @@ Mods used:
 
 ***
 
-# Creator: Supercoder79
+# Developer: ![Supercoder79](https://user-images.githubusercontent.com/97899734/170364856-48ae3b73-fba5-415c-8a13-4ce0781f7651.png)
+
+
 - Profile: https://www.curseforge.com/members/supercoder79
 - Profile on github: https://github.com/SuperCoder7979
 
@@ -263,7 +313,9 @@ Mods used:
 
 ***
 
-# Creator: JTorLeon Studio
+# Developer: ![JTorLeon](https://user-images.githubusercontent.com/97899734/170364934-26d61d6d-219c-44be-b0ce-eda833600176.png)
+
+
 - Profile: https://www.curseforge.com/members/jtorleon/projects
 - Profile on gitlab: https://gitlab.com/scs_torleon
 
@@ -272,12 +324,15 @@ Mods used:
 - [Awesome Dungeon Nether Edition](https://www.curseforge.com/minecraft/texture-packs/awesome-dungeon-nether-edition-datapack)
 - [Awesome Dungeon Edition Ocean](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric)
 - [Awesome Dungeon End Edition](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-fabric)
+
 Library:
 - [Library Ferret](https://www.curseforge.com/minecraft/mc-mods/library-ferret-fabric)
 
 ***
 
-# Creator: MoriyaShiine
+# Developer: ![MoriyaShiine](https://user-images.githubusercontent.com/97899734/170365017-aada7929-b2ed-4462-a7de-90c3970a75b3.png)
+
+
 - Profile: https://www.curseforge.com/members/moriyashiine
 - Profile on github: https://github.com/MoriyaShiine
 
@@ -287,7 +342,9 @@ Mods used:
 
 ***
 
-# Creator: Comp500
+# Developer: ![Comp500](https://user-images.githubusercontent.com/97899734/170365091-06162368-57a9-4c66-b54c-fd8ef7dc5421.png)
+
+
 - Profile: https://www.curseforge.com/members/comp500/followers
 - Profile on github: https://github.com/comp500
 
@@ -299,7 +356,9 @@ Tools:
 
 ***
 
-# Creator: Squeek502
+# Developer: ![Squeek502](https://user-images.githubusercontent.com/97899734/170365117-28c3fce4-0e63-4c0a-8c39-b4183e0be424.png)
+
+
 - Profile: https://www.curseforge.com/members/squeek502
 - Profile on github: https://github.com/squeek502
 
@@ -308,7 +367,9 @@ Mods used:
 
 ***
 
-# Creator: Whangd00dle
+
+# Developer: ![Whangd00dle](https://user-images.githubusercontent.com/97899734/170365141-8f9d3d0c-6c29-4f8d-bf00-f9835bc40417.png)
+
 - Profile: https://www.curseforge.com/members/Whangd00dle
 - Profile on github: https://github.com/Platymemo
 
@@ -317,7 +378,9 @@ Mods used:
 
 ***
 
-# Creator: Legobmw99
+# Developer: ![Legobmw99](https://user-images.githubusercontent.com/97899734/170365161-7b36a6f9-7068-4b80-ade1-b49e164af3e6.png)
+
+
 - Profile: https://www.curseforge.com/members/legobmw99
 - Profile on github: https://github.com/legobmw99
 
@@ -326,7 +389,9 @@ Mods used:
 
 ***
 
-# Creator: Aalgorithmx2
+# Developer: ![Aalgorithmx2](https://user-images.githubusercontent.com/97899734/170365176-4f0fba54-caa0-4bd3-b04d-fda550b9a03b.png)
+
+
 - Profile: https://www.curseforge.com/members/algorithmx2
 - Project on github: https://github.com/AppliedEnergistics
 
@@ -335,7 +400,8 @@ Mods used:
 
 ***
 
-# Creator: Slomax907
+# Developer: ![Slomax907](https://user-images.githubusercontent.com/97899734/170365206-650f90cb-847e-457d-9689-f7858ba3731b.png)
+
 - Profile on github: https://github.com/Slomaxonical-907
 
 Mods used:
@@ -343,7 +409,9 @@ Mods used:
 
 ***
 
-# Creator: NathanPB
+# Developer: ![NathanPB](https://user-images.githubusercontent.com/97899734/170365321-99f337c4-6d48-4a8b-98fd-a268ad61237d.png)
+
+
 - Profile: https://www.curseforge.com/members/nathanpb/projects
 - Profile on github: https://github.com/NathanPB
 
@@ -352,7 +420,9 @@ Mods used:
 
 ***
 
-# Creator: Florensie
+# Developer: ![Florensie](https://user-images.githubusercontent.com/97899734/170365370-eb124684-7b19-472d-93fb-403d2cc7d2eb.png)
+
+
 - Profile: https://www.curseforge.com/members/florensie
 - Profile on github: https://github.com/florensie
 
@@ -362,9 +432,42 @@ Mods used:
 
 ***
 
-# Creator: AdrianTodt
+# Developer: ![AdrianTodt](https://user-images.githubusercontent.com/97899734/170365386-f5d8838a-d3cd-4d8f-a1f3-a247631bcc7c.png)
+
+
 - Profile: https://www.curseforge.com/members/adriantodt
 - Profile on github: https://github.com/adriantodt
 
 Mods used:
 - [Winged](https://www.curseforge.com/minecraft/mc-mods/winged)
+
+
+# Developer: ![Focamacho](https://user-images.githubusercontent.com/97899734/170365396-1db9c3c1-8f47-4a8f-a07a-d1934919cc0e.png)
+
+- Profile: https://www.curseforge.com/members/focamacho
+- Profile on github: https://github.com/Focamacho
+
+Mods used:
+- [Rings of Ascension](https://www.curseforge.com/minecraft/mc-mods/fabric-rings-of-ascension)
+
+***
+
+# Developer: ![Siphalor](https://user-images.githubusercontent.com/97899734/170365417-a3dc4a3e-cc4f-4834-aed0-82414102b0cd.png)
+
+
+- Profile: https://www.curseforge.com/members/siphalor
+- Profile on github: https://github.com/Siphalor
+
+Mods used:
+- [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
+
+***
+
+# Developer: ![Prospector](https://user-images.githubusercontent.com/97899734/170365431-64de631d-b1f2-4f8a-9c7e-1f8166752f49.png)
+
+
+- Profile: https://www.curseforge.com/members/prospectordev
+- Profile on github: https://github.com/Prospector
+
+Mods used:
+- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
