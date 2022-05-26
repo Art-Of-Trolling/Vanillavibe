@@ -128,12 +128,15 @@ Mods used:
 # Developer: ![NinjaPhoenix](https://user-images.githubusercontent.com/97899734/170364454-9f61d927-3eda-4bf0-92ec-6d0ae075fd72.png)
 
 
-- Profile: https://www.curseforge.com/members/NinjaPhenix
-- Profile on github: https://github.com/NinjaPhenix
+- Profile: https://www.curseforge.com/members/3llemes
+- Profile on github: https://github.com/Ellemes
 
 Mods used:
 - [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage)
 - [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs)
+
+Library:
+- [Ellemes' Container Library](https://www.curseforge.com/minecraft/mc-mods/ellemes-container-library)
 
 ***
 
