@@ -125,10 +125,11 @@ Mods used:
 
 ***
 
-# Developer: ![NinjaPhoenix](https://user-images.githubusercontent.com/97899734/170364454-9f61d927-3eda-4bf0-92ec-6d0ae075fd72.png)
+# Developer: ![Ellemes](https://user-images.githubusercontent.com/97899734/170448677-6f2144b3-b579-4f61-8d87-0b1e9242d738.png)
 
 
 - Profile: https://www.curseforge.com/members/3llemes
+
 - Profile on github: https://github.com/Ellemes
 
 Mods used:
