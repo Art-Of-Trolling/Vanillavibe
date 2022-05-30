@@ -3,9 +3,9 @@
 # ![Vanillavibe](https://user-images.githubusercontent.com/97899734/170998008-d68f9d8f-07e4-4a1e-8d8d-3b8db7c88af5.png)
 
 
-![Fabric](https://img.shields.io/badge/mod%20loader-fabric-d64541?style=flat-round) 
-![Status](https://img.shields.io/static/v1?label=status&message=not-released&color=orange)
-![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
+[![](https://img.shields.io/badge/mod%20loader-fabric-d64541?style=flat-round)](https://fabricmc.net/)
+[![](https://img.shields.io/static/v1?label=status&message=not-released&color=orange)](https://vanillavibe.website/)
+[![](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/szumaster/Vanillavibe/blob/main/LICENSE.md)
   
 <div align="center"><table style="border-collapse: collapse; width: 100%; height: 226px;" border="1">
 <tbody>
