@@ -1,6 +1,6 @@
                     GNU GENERAL PUBLIC LICENSE
                      Version 3, 29 June 2007
-   	      Vanillavibe Copyright (C) 2022 SZUMASTER
+   	         Vanillavibe Copyright (C) 2022 szumaster
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
