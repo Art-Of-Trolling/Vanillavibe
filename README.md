@@ -45,7 +45,7 @@
 </td>
 </tr>
 <tr style="height: 100px;">
-<td style="width: 70%; height: 100px;"><a href="https://vanillavibe.website/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/OGZBAhk.png" width="228" height="107" /></a></td>
+<td style="width: 70%; height: 100px;"><a href="https://vanillavibe.website/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/zwt5iRx.png" width="228" height="107" /></a></td>
 </tr>
 </tbody>
 </table>
