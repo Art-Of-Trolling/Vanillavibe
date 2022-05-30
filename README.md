@@ -39,8 +39,8 @@
 <td style="width: 50%; height: 18px; text-align: center;"><a href="https://vanillavibe.website/"><div align="center">Scripts</a></td>
 </tr></tr>
         <tr>
-          <td style="width: 50%; height: 100px;"><a href="https://vanillavibe.website/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/nioySVe.png" width="228" height="107" /></a></td>
-          <td style="width: 90%; height: 100px;"><a href="https://vanillavibe.website/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/OGZBAhk.png" width="228" height="107" /></a></td>
+          <td style="width: 50%; height: 100px;"><a href="https://vanillavibe.website/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/uheOtdW.png" width="228" height="107" /></a></td>
+          <td style="width: 90%; height: 100px;"><a href="https://vanillavibe.website/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/zwt5iRx.png" width="228" height="107" /></a></td>
         </tr>
       </tbody>
     </table>
