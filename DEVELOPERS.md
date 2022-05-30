@@ -191,6 +191,7 @@ Mods used:
 - [Wireless Networks](https://www.curseforge.com/minecraft/mc-mods/wireless-networks)
 - [Mo' Colors](https://www.curseforge.com/minecraft/mc-mods/mo-colors)
 - [Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)
+- [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier)
 
 ***
 
@@ -616,5 +617,93 @@ Mods used:
 
 Mods used:
 - [Drink Beer](https://www.curseforge.com/minecraft/mc-mods/drink-beer-fabric)
+
+***
+
+# Developer: ![Kyrptonaught](https://user-images.githubusercontent.com/97899734/170994154-74fb99ea-fe4a-447f-b5fb-0bb6c055b43f.png)
+
+- Profile: https://www.curseforge.com/members/kyrptonaught
+- Profile on github: https://github.com/kyrptonaught
+
+Mods used:
+- [Diggus Maximus](https://www.curseforge.com/minecraft/mc-mods/diggus-maximus)
+- [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
+- [Upgraded Ender Chests](https://www.curseforge.com/minecraft/mc-mods/upgraded-ender-chests)
+- [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
+- [Quick Shulker](https://www.curseforge.com/minecraft/mc-mods/quick-shulker)
+
+***
+
+# Developer: ![darkhaxdev](https://user-images.githubusercontent.com/97899734/170994208-66720c7a-61d5-4917-995e-ab1e1921911e.png)
+
+- Profile: https://www.curseforge.com/members/darkhaxdev
+- Profile on github: https://github.com/Darkhax-Minecraft
+
+Mods used:
+- [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+- [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader)
+- [Dark Paintings](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)
+- [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic)
+
+***
+
+# Developer: ![theillusivec4](https://user-images.githubusercontent.com/97899734/170996486-61789a06-1699-471e-b6bc-70a6e624144a.png)
+
+- Profile: https://www.curseforge.com/members/theillusivec4
+- Profile on github: https://github.com/TheIllusiveC4
+
+Mods used:
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric)
+
+***
+
+# Developer: ![flier268](https://user-images.githubusercontent.com/97899734/170994331-04f217a9-c2f2-4886-af0a-5e3f937ea1ab.png)
+
+- Profile: https://www.curseforge.com/members/flier268
+- Profile on github: https://github.com/flier268
+
+Mods used:
+- [More Tooltips](https://www.curseforge.com/minecraft/mc-mods/more-tooltips)
+
+***
+
+# Developer: ![oroarmor](https://user-images.githubusercontent.com/97899734/170994382-9cbf648b-b966-49ce-a20f-7dece00182b6.png)
+
+- Profile: https://www.curseforge.com/members/oroarmor
+- Profile on github: https://github.com/OroArmor
+
+Mods used:
+- [Netherite Mod Plus](https://www.curseforge.com/minecraft/mc-mods/netherite-plus-mod)
+
+***
+
+# Developer: ![Luligabi12](https://user-images.githubusercontent.com/97899734/170994452-0b99b487-6851-465b-acff-b1f6520bfaca.png)
+
+- Profile: https://www.curseforge.com/members/luligabi12
+- Profile on github: https://github.com/Luligabi1
+
+Mods used:
+- [Basic Aiots](https://www.curseforge.com/minecraft/mc-mods/basic-aiots)
+
+***
+
+# Developer: ![Terrails](https://user-images.githubusercontent.com/97899734/170994502-7f715abf-6556-40dd-98cc-7f9325dc9d3d.png)
+
+- Profile: https://www.curseforge.com/members/terrails
+- Profile on github: https://github.com/Terrails
+
+Mods used:
+- [Health Overlay](https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric)
+
+***
+
+# Developer: ![CoolMineman](https://user-images.githubusercontent.com/97899734/170996209-d26e2509-0a5e-4d25-9215-97cf93fffc7b.png)
+
+- Profile: https://www.curseforge.com/members/cool_mineman
+- Profile on github: https://github.com/CoolMineman
+
+Mods used:
+- [Bits And Chisels](https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels)
 
 ***
