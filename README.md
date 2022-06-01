@@ -7,44 +7,15 @@
 [![](https://img.shields.io/static/v1?label=status&message=not-released&color=orange)](https://vanillavibe.website/)
 [![](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/szumaster/Vanillavibe/blob/main/LICENSE.md)
   
-<div align="center"><table style="border-collapse: collapse; width: 100%; height: 226px;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
-<tr style="height: 18px;">
-  <td style="width: 70%; height: 18px; text-align: center;"><strong><div align="center">1.16.x</div></strong></td>
-  <td style="width: 70%; height: 18px; text-align: center;"><strong><div align="center">1.18.x</div></strong></td>
+<tr>
+<td style="width: 50%;"><a title="Vanillavibe 1.16.x" href="https://github.com/ModsforModpacks/Vanillavibe/tree/1.16.x" target="_blank"><img src="https://i.imgur.com/5gzNM5U.png" alt="" /></a></td>
+<td style="width: 50%;"><a title="Vanillavibe 1.18.x" href="https://github.com/ModsforModpacks/Vanillavibe/tree/1.18.x" target="_blank"><img src="https://i.imgur.com/BDmR8Kp.png" alt="" /></a></td>
 </tr>
-<div align="center"><tr style="height: 18px;">
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://vanillavibe.website/"><div align="center">Modlist</a></td>
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://vanillavibe.website/"><div align="center">Modlist</a></td>
-</tr>
-<div align="center"><tr style="height: 18px;">
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://github.com/ModsforModpacks/Vanillavibe/blob/main/DEVELOPERS.md"><div align="center">Developers</a></td>
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://github.com/ModsforModpacks/Vanillavibe/blob/main/DEVELOPERS.md"><div align="center">Developers</a></td>
-</tr>
-<div align="center"><tr style="height: 18px;">
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://github.com/ModsforModpacks/Vanillavibe/wiki"><div align="center">Wikipedia</a></td>
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://github.com/ModsforModpacks/Vanillavibe/wiki"><div align="center">Wikipedia</a></td>
-</tr>
-<div align="center"><tr style="height: 18px;">
-
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://vanillavibe.website/"><div align="center">Project</a></td>
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://vanillavibe.website/"><div align="center">Project</a></td>
-</tr>
-<div align="center"><tr style="height: 18px;">
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://vanillavibe.website/"><div align="center">Config</a></td>
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://vanillavibe.website/"><div align="center">Config</a></td>
-</tr>
-<div align="center"><tr style="height: 18px;">
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://vanillavibe.website/"><div align="center">Scripts</a></td>
-<td style="width: 50%; height: 18px; text-align: center;"><a href="https://vanillavibe.website/"><div align="center">Scripts</a></td>
-</tr></tr>
-        <tr>
-          <td style="width: 50%; height: 100px;"><a href="https://vanillavibe.website/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/uheOtdW.png" width="228" height="107" /></a></td>
-          <td style="width: 90%; height: 100px;"><a href="https://vanillavibe.website/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/zwt5iRx.png" width="228" height="107" /></a></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+</tbody>
+</table>
+  
  <div align="center">
    
 This repository is licensed under **GPL-3.0**. For more information, see the [License](https://github.com/szumaster/modpack/blob/main/LICENSE.md).
