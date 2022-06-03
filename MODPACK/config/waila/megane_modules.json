@@ -1,0 +1,43 @@
+{
+  "modules": {
+    "megane-kibe": {
+      "lol.bai.megane.module.kibe.MeganeKibe": true
+    },
+    "megane-industrial-revolution": {
+      "lol.bai.megane.module.indrev.MeganeIndustrialRevolution": true
+    },
+    "modern_industrialization": {
+      "aztech.modern_industrialization.compat.megane.MIMeganeModule": true
+    },
+    "megane-deep-mob-learning-simulacrum": {
+      "lol.bai.megane.module.dmlsimulacrum.MeganeDmlSimulacrum": true
+    },
+    "megane-reborn-core": {
+      "lol.bai.megane.module.reborncore.MeganeRebornCore": true
+    },
+    "megane-fabric-transfer": {
+      "lol.bai.megane.module.fabrictransfer.MeganeFabricTransfer": true
+    },
+    "megane-tech-reborn": {
+      "lol.bai.megane.module.techreborn.MeganeTechReborn": true
+    },
+    "megane-extra-generators": {
+      "lol.bai.megane.module.extragenerators.MeganeExtraGenerators": true
+    },
+    "megane-lib-block-attributes": {
+      "lol.bai.megane.module.lba.MeganeLibBlockAttributes": true
+    },
+    "megane-applied-energistics-2": {
+      "lol.bai.megane.module.ae2.MeganeAppliedEnergistics2": true
+    },
+    "megane-reborn-energy": {
+      "lol.bai.megane.module.rebornenergy.MeganeRebornEnergy": true
+    },
+    "megane-wireless-networks": {
+      "lol.bai.megane.module.wirelessnetworks.MeganeWirelessNetworks": true
+    },
+    "megane-vanilla": {
+      "lol.bai.megane.module.vanilla.MeganeVanilla": true
+    }
+  }
+}

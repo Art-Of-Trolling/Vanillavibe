@@ -1,0 +1,91 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 0, 0000, 00:00:00 PM
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- indrev:coolant_still
+- indrev:coolant_flowing
+- indrev:sulfuric_acid_still
+- indrev:sulfuric_acid_flowing
+- indrev:toxic_mud_still
+- indrev:toxic_mud_flowing
+- milk:flowing_milk?
+- milk:still_milk?
+- xps:xp_fluid
+- xps:flowing_xp
+
+#spectrum:swimmable_fluid
+- #spectrum:liquid_crystal
+- #spectrum:mud
+- #spectrum:midnight_solution
+
+#ae2:blacklisted/annihilation_plane
+
+#spectrum:mud
+- spectrum:mud
+- spectrum:flowing_mud
+
+#c:milk
+- milk:flowing_milk?
+- milk:still_milk?
+
+#c:tea
+- create:flowing_tea
+- create:tea
+
+#c:water
+- #minecraft:water?
+
+#c:lava
+- #minecraft:lava?
+
+#spectrum:midnight_solution_converted
+- #spectrum:liquid_crystal
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- indrev:molten_netherite_still
+- indrev:molten_netherite_flowing
+- indrev:molten_iron_still
+- indrev:molten_iron_flowing
+- indrev:molten_copper_still
+- indrev:molten_copper_flowing
+- indrev:molten_gold_still
+- indrev:molten_gold_flowing
+- indrev:molten_tin_still
+- indrev:molten_tin_flowing
+- indrev:molten_lead_still
+- indrev:molten_lead_flowing
+- indrev:molten_silver_still
+- indrev:molten_silver_flowing
+
+#create:bottomless/deny
+
+#spectrum:midnight_solution
+- spectrum:midnight_solution
+- spectrum:flowing_midnight_solution
+
+#c:honey
+- create:flowing_honey
+- create:honey
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#spectrum:liquid_crystal
+- spectrum:liquid_crystal
+- spectrum:flowing_liquid_crystal
+
+#c:chocolate
+- create:flowing_chocolate
+- create:chocolate
