@@ -1,0 +1,30 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 0, 0000, 00:00:00 PM
+
+#c:weapon_damage_enhancement
+- minecraft:bane_of_arthropods
+- minecraft:impaling
+- minecraft:smite
+- minecraft:power
+- minecraft:sharpness
+
+#enchancement:unselectable
+
+#c:entity_movement_enhancement
+- minecraft:depth_strider
+- minecraft:soul_speed
+
+#dark-enchanting:disabled
+
+#c:looting
+- minecraft:looting
+
+#c:entity_defense_enhancement
+- minecraft:feather_falling
+- minecraft:protection
+- minecraft:blast_protection
+- minecraft:projectile_protection
+- minecraft:fire_protection
+- minecraft:respiration
+
+#c:fortune
+- minecraft:fortune
